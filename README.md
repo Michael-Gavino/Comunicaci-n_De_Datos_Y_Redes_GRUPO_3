@@ -1,4 +1,4 @@
-.gabino@# Comunicaci-n_De_Datos_Y_Redes_GRUPO_3-
+Comunicaci-n_De_Datos_Y_Redes_GRUPO_3-
 Actividades grupales del curso
 
  ## Integrantes del trabajo
