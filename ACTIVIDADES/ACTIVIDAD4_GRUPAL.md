@@ -266,6 +266,9 @@ g. -Guarda el archivo de configuración para evitar perderlo si el switch se apa
 
 g. Cierra la ventana de configuración para S2.
 
-#Video
+## Video explicativo
 
-![video](https://www.canva.com/design/DAGCszWKn3g/3d9M-k2w9Iv1cq9X4_0GyA/watch?utm_content=DAGCszWKn3g&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+<video width="640" height="360" controls>
+  <source src="https://github.com/Michael-Gavino/Comunicaci-n_De_Datos_Y_Redes_GRUPO_3/blob/main/Video/Dise%C3%B1o%20sin%20t%C3%ADtulo.mp4" type="video/mp4">
+</video>
+
