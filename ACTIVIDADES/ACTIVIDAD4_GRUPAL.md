@@ -268,5 +268,5 @@ g. Cierra la ventana de configuración para S2.
 
 ## Video explicativo
 
-<iframe width="560" height="315" src="https://github.com/Michael-Gavino/Comunicaci-n_De_Datos_Y_Redes_GRUPO_3/blob/main/Video/Dise%C3%B1o%20sin%20t%C3%ADtulo.mp4" frameborder="0" allowfullscreen></iframe>
+[DESCARGAR AQUI EL VIDEO](https://github.com/Michael-Gavino/Comunicaci-n_De_Datos_Y_Redes_GRUPO_3/blob/main/Video/Dise%C3%B1o%20sin%20t%C3%ADtulo.mp4)
 
