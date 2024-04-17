@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Actividad 4: Configuración inicial de un Switch
 Para completar este laboratorio vamos utilizar Cisco Packet Tracer
 Objetivos
@@ -398,4 +397,3 @@ Asegúrate de que la configuración sea correcta.
 Guarda el archivo de configuración para evitar perderlo si el switch se apaga.
 g. Cierra la ventana de configuración para S2
 
->>>>>>> 5723a95b5266a9e91e5b44a90444a11323aa8c01
