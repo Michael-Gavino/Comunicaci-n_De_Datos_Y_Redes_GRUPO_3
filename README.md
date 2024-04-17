@@ -6,4 +6,4 @@ Actividades grupales del curso
 | :------------: |  :------------: | 
 |Lila Zarai Huanca Ampuero |lila.huanca@upch.pe | 
 |Michael Gabino Isidro | michael.gabino@upch.pe | 
-|Alexander Manosalva Peralta | ------------| 
+|Alexander Manosalva Peralta | yojan.manosalva@upch.pe | 
