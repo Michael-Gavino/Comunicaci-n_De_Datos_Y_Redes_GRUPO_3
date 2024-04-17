@@ -250,11 +250,11 @@ Hemos completado la configuración en S1. Ahora configura el S2. Si no recuerda 
 
 # Configura el S2 con los siguientes parámetros:
 
-a. -Device name: *S2*
+a. -Device name: **S2**
 
-b. -Protege el acceso a la consola con la contraseña *chalo*.
+b. -Protege el acceso a la consola con la contraseña **chalo**.
 
-c. -Configura enable password como *claudi* y una contraseña enable secret como *itsasecret*.
+c. -Configura enable password como **claudi** y una contraseña enable secret como **itsasecret**.
 
 d. -Configura un mensaje apropiado para aquellos que inician sesión en el switch.
 
