@@ -1,3 +1,4 @@
+![logo-upch](https://github.com/EnriqueUPCH/DatosyredesRepo/assets/117322038/31865330-15f7-4eff-9875-e93f67331fa1)
 ## Actividad 4: Configuración inicial de un Switch
 Para completar este laboratorio vamos utilizar Cisco Packet Tracer
 
